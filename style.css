@@ -40,7 +40,7 @@ body {
 
 /* NAVIGATION */
 nav {
-    background: #3e1a12;
+    background: #00B7B5;
     padding: 0;
     text-align: center;
 }
@@ -54,11 +54,11 @@ nav a {
 }
 
 nav a:hover {
-    background: #5a2d20;
+    background: #018790;
 }
 
 nav .active {
-    background: #f4b22e;
+    background: #005461;
     color: black;
 }
 
@@ -80,3 +80,4 @@ nav .active {
     font-size: 40px;
     font-weight: bold;
 }
+
